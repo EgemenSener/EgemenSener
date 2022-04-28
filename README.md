@@ -1,7 +1,6 @@
 
 # Egemen ŞENER 
 
-
 ## About Me:
 * 🌱 I’m currently working with **React.js and anything related with JavaScript.**
 * 🚀 My personal page **https://egemensener.netlify.app/**
@@ -16,3 +15,6 @@
     console.log("Hello World!");
 
 ```
+-----
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=egemensener&show_icons=true&theme=dark)
+
