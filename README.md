@@ -16,5 +16,5 @@
 
 ```
 -----
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=egemensener&show_icons=true&theme=dark)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=egemensener&show_icons=true&theme=dark)
 
